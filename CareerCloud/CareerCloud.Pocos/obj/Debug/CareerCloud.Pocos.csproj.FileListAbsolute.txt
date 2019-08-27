@@ -1,0 +1,32 @@
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CopyComplete
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\source\repos\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CopyComplete
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\source\repos\CareerCloud.UnitTests.Assignment1\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CopyComplete
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\source\repos\Test2\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\CareerCloud.Pocos.pdb
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.csproj.CopyComplete
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.dll
+C:\Users\Owner\Desktop\NET Program\C and Windows Desktop Appl - NET-012-707\Assignment1\CareerCloud\CareerCloud\CareerCloud.Pocos\obj\Debug\CareerCloud.Pocos.pdb
